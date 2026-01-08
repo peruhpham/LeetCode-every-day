@@ -1,2 +1,2 @@
-# LeetCode-every-day
+# Mycode
 LeetCode until I make it
